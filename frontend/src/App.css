@@ -1,0 +1,22 @@
+.home-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f0f0f0; 
+}
+.home-image {
+  background-image: url('/images/fundo.jpg'); 
+  background-size: cover; 
+  background-position: center; 
+  flex: 1; 
+  height: 100%; 
+  filter: brightness(50%); 
+}
+.home-text {
+  padding: 20px;
+  width: 50%; 
+  color: white; 
+  z-index: 1; 
+}
