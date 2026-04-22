@@ -129,12 +129,3 @@ Confirme se o backend está rodando antes de abrir o frontend.
 ### Erro de dependência faltando
 
 Rode `npm install` dentro da pasta correspondente (`db/backend` ou `frontend`).
-
-## Próximo passo recomendado
-
-Se quiser evoluir o projeto, os próximos ajustes naturais seriam:
-
-1. Criar a edição e remoção de registros.
-2. Fazer o ranking persistir de forma mais completa.
-3. Padronizar melhor os estilos do frontend.
-4. Consolidar a documentação em um único README.
